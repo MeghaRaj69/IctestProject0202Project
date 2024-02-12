@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: IctestProject0202Project
+  gitServerName: ic_test
+  gitUrl: https://github.com/MeghaRaj69/IctestProject0202Project
+  gitUsername: MeghaRaj69
+  gitBranch: main
